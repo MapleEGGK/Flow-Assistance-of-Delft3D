@@ -46,7 +46,7 @@
      2. 输入以下命令（注意修改对应版本号）：
         ```bash
         cd C:\Program Files\Deltares\Delft3D 4.04.01\x64\share\bin
-        mpd -install -phrase behappy
+        smpd -install -phrase behappy
         ```
      3. 提示 `MPICH2 Process Manager, Argonne National Lab installed.` 即表示安装成功。
 
