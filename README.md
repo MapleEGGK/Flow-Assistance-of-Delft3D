@@ -26,6 +26,7 @@
   运行后提示“MPICH2 Process Manager, Argonne National Lab installed.”即成功，注意修改响应的版本号）
 4、软件通过在第6s、1min、10min、30min和后续间隔60min检测d_hydro.exe进程，判断是否开始下一个任务的计算，在这些时间点会短暂消耗算力（非常短暂，就像计算动量时写入文件时的卡顿一样），为正常现象。
 5、软件有Matlab2023b版本上编写，因此使用打包的软件需要相应版本的编译器（https://ww2.mathworks.cn/products/compiler/matlab-runtime.html下载）
+6、Happy2Flow.zip中有简单的测试算例
 
 
 **问题**：
